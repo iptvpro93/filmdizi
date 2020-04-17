@@ -1,0 +1,12 @@
+
+#EXTM3U
+# Created with Bento4 mp4-hls.py version 1.1.0r624
+
+# Audio
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_aac",NAME="tur",LANGUAGE="tr",AUTOSELECT=YES,DEFAULT=YES,URI="https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e8e29dd0b51a00008774535/v3/clear-hls-0/audio/aac/tur/stream.m3u8"
+
+# Media Playlists
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=2578550,BANDWIDTH=2892684,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1280x720,AUDIO="audio_aac"
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e8e29dd0b51a00008774535/v3/clear-hls-0/media-4/stream.m3u8
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=3537698,BANDWIDTH=4056279,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080,AUDIO="audio_aac"
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e8e29dd0b51a00008774535/v3/clear-hls-0/media-5/stream.m3u8
